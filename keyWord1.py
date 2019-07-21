@@ -3,4 +3,4 @@ customer={
     "Age":40,
     "is_varified":True
 }
-print(customer.get("birthday"))
+print(customer.get("birthday","July 1 1980")) 
